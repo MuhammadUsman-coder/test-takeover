@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Takeover POC by XEE / SecurityReapers"
+    return "Takeover POC by CyberGhost"
