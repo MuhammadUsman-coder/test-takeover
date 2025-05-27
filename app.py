@@ -1,6 +1,6 @@
 from flask import Flask
 app = Flask(__name__)
 
-@app.route("/poc")
+@app.route("/")
 def hello():
     return "Takeover POC by CyberGhost"
